@@ -1,0 +1,17 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    box-sizing: border-box;
+    width: 500px;
+}
+
+.toptext {
+    margin-top: 15px;
+}
+
+.bottomtext{    
+    border: 10px solid blue;
+    padding: 46px;
+    margin-top: 20px;
+}

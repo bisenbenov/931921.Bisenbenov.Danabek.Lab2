@@ -1,0 +1,31 @@
+* {
+    color: black;
+    margin: 0;
+}
+
+h1 {
+    background-color: #EAEAEA;
+    padding: 5px 0 35px 5px;
+    text-align: left;
+}
+
+.leftbar {
+    background-color: #C8FC98;
+    float: left;
+    width: 25%;
+    padding-left: 5px;
+}
+
+.rightbar {
+    float: right;
+    width: 200px;
+    background-color: #FFFF80;
+    padding-left: 5px;
+}
+
+.columncontent {
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flow-root;
+    flex-direction: column;
+}

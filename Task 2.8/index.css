@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+
+.aqua {
+    position: relative;
+    background: aqua;
+    display: flex;
+}
+
+.aqua .topleft {
+    background: bisque;
+    min-width: 150px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aqua .content {
+    background: darkgray;
+
+}
+
+.aqua .content .flex {
+    display: flex;
+}
+
+footer {
+    height: 80px;
+    width: 100vw;
+    background: limegreen;
+    position: fixed;
+    bottom: 0px;
+}

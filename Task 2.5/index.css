@@ -1,0 +1,20 @@
+* {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toptext {
+    width: 500px;
+    background-color: green;
+    margin-top: 15px;
+}
+
+.bottomtext{
+    width: 500px;
+    background-color: blue;    
+    padding: 30px;
+    border: 10px solid blue;
+    margin-top: 20px;
+}
+
